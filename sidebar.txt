@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[peq:home|Door43 (peq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-peq|d43-peq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-peq/archive/master.zip|d43-peq.zip]]
+
+**Recent Changes**
+{{changes>ns = peq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/peq|Ethnologue data]]
+
